@@ -10,9 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Fraud Detection
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Machine learning algorithms can identify unusual patterns or deviations from normal behavior in transactional data. By “training” on historical data, the algorithms learn to recognize legitimate transactions and flag suspicious activities that may indicate fraud.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tarun4568/fraud_detection)
 
 ## Header 2
 
